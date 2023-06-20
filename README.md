@@ -99,3 +99,6 @@ In order to add more `date of birth` templates, you just have to add the same se
 and the same applies to all fields.
 
 -------
+
+colab: https://drive.google.com/file/d/18v330PyFztlZnZliizRVS9klJtZr59_f/view?usp=sharing
+drive: https://drive.google.com/drive/folders/1oWxd19drE-HONQG5XSSS8domrXEsqimM?usp=sharing

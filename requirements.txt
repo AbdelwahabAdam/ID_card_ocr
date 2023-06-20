@@ -1,0 +1,5 @@
+PyPDF2==2.12.1
+textract==1.6.5
+opencv-python
+numpy
+glob2
